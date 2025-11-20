@@ -1,4 +1,6 @@
 # OP-AMP
+## REG NUM :
+## NAME :
 ## EPERRIMENT NO 5: Design a CMOS Operational Amplifier and find out the AC analysis.
 ## Aim:
 To design a CMOS Operational Amplifier and find out the AC analysis.
